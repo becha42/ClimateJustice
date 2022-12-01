@@ -32,4 +32,6 @@ A place for the collection of projects related to Climate Justice in tech / netw
  * Next IETF meeting(s)
  * RIPE86, May 2023 
 
-(this is a copy of the file in this repository; I'm struggling with GitHub syntax ;-) ) 
+# Work in Progress 
+
+https://pad.riseup.net/p/qih-qubits-for-the-children 
