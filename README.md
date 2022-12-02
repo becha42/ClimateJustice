@@ -4,7 +4,7 @@ A place for the collection of projects related to Climate Justice in tech / netw
 
 # "Little Green Qubits" -> "QUBITS FOR THE CHILDREN" 
 
-Results of the Quantum Internet Hackathon 2022! https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022 
+Results of the Quantum Internet Hackathon 2022! https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md 
 
  This was a "challenge" / project proposal at the Quantum Internet Hackathon 2022:
  * https://labs.ripe.net/author/karla-white/take-part-in-the-quantum-internet-hackathon-2022/
