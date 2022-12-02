@@ -43,7 +43,7 @@ Without going too much in detail, the probably most well known criterion used fo
 There are different ways to reduce the power consumption, one is optimizing the cooling technology used, for example by using warm water cooling (a technology developed by IBM).
 But also the heat produced by the system is a topic that has a high impact which is not directly measured when looking at FLOPS per Watt, but the heat must not be wasted: It might instead be used for heating buildings, etc.
 Also the source of power should be considerd. Are renewables used or e.g coal?
-And as a last example of impacts, the use of rare materials for manufacturing should be mentioned.
+And as a last example of impacts, the use of rare materials for manufacturing should be mentioned.[53]
 
 
 ## Challenges in Quantum vs Classical comparison
@@ -320,8 +320,8 @@ REFERENCES 
 48.    The need for universal standards in internet of things. Intellipaat Blog. (2020, October 15). Retrieved December 2, 2022, from https://intellipaat.com/blog/need-universal-standards-internet-things/ 
 49.    The importance of standards in the evolution towards 800G ethernet and beyond. Embedded Computing Design. Retrieved December 2, 2022, from https://embeddedcomputing.com/application/networking-5g/ethernet-serial/the-importance-of-standards-in-the-evolution-towards-800g-ethernet-and-beyond 
 50.    The Open Source Development Model: Overview, benefits and recommendations. (n.d.). Retrieved December 2, 2022, from http://aaaea.org/Al-muhandes/2008/February/open_src_dev_model.htm 
- 52.   Wang, J.IJ., Yamoah, M.A., Li, Q. et al. Hexagonal boron nitride as a low-loss dielectric for superconducting quantum circuits and qubits. Nat. Mater. 21, 398–403 (2022). https://doi.org/10.1038/s41563-021-01187-w
-
+52.   Wang, J.IJ., Yamoah, M.A., Li, Q. et al. Hexagonal boron nitride as a low-loss dielectric for superconducting quantum circuits and qubits. Nat. Mater. 21, 398–403 (2022). https://doi.org/10.1038/s41563-021-01187-w
+53. "The Rare Metals War: The Dark Side of Clean Energy and Digital Technologies", book by Guillaume Pitron https://www.nhbs.com/the-rare-metals-war-book
 
 
 
