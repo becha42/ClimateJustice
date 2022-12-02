@@ -43,7 +43,7 @@ Without going too much in detail, the probably most well known criterion used fo
 There are different ways to reduce the power consumption, one is optimizing the cooling technology used, for example by using warm water cooling (a technology developed by IBM).
 But also the heat produced by the system is a topic that has a high impact which is not directly measured when looking at FLOPS per Watt, but the heat must not be wasted: It might instead be used for heating buildings, etc.
 Also the source of power should be considerd. Are renewables used or e.g coal?
-And as a last example of impacts, the use of rare materials for manufacturing should be mentioned.[53]
+And as a last example of impacts, the use of rare materials for manufacturing should be mentioned.[52]
 
 
 ## Challenges in Quantum vs Classical comparison
