@@ -2,7 +2,13 @@
 
 A place for the collection of projects related to Climate Justice in tech / networking / Internet Governance. 
 
-# "Little Green Qubits" -> "QUBITS FOR THE CHILDREN" 
+# Quantum Internet Hackathon 2022
+
+## Results 
+
+* https://github.com/Lizaterdag/QIH-2022/blob/main/Qubits_for_the_Kids.pdf
+
+## Challenge: "Little Green Qubits" 
 
 Results of the Quantum Internet Hackathon 2022! https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md 
 
