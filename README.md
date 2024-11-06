@@ -2,6 +2,15 @@
 
 A place for the collection of projects related to Climate Justice in tech / networking / Internet Governance. 
 
+# 2024 
+
+## IETF 212 -> IRTF Sustain-RT https://github.com/rezaki-ali/IRTF_SUSTAIN_RG 
+## https://github.com/RIPE-Atlas-Community/Green-Tech 
+
+# 2023 
+
+
+
 # Quantum Internet Hackathon 2022
 
 ## Results 
